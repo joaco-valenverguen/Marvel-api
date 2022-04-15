@@ -1,5 +1,5 @@
-const key = "88593eb394c8d654d590f6e5e7fa356e";
-const hash = "ba2a8c7c15bda7cb7d70670ceca21ebf";
+const key = "88593eb394c8d654d           590f6e5e7fa356e";
+const hash = "ba2a8c7c15bda7cb7d706           70ceca21ebf";
 const content = document.querySelector(".content");
 const marvel = {
   render: () => {
